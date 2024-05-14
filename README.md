@@ -3,6 +3,6 @@
 <pre>
 link vm pronta
 
-https://drive.google.com/drive/folders/1b_19ZDJZzS2EzNd3MPDhU5yfx4RB5DRL?usp=drive_link
+https://drive.google.com/drive/folders/1b_19ZDJZzS2EzNd3MPDhU5yfx4RB5DRL?usp=sharing
 
 </pre>
